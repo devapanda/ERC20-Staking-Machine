@@ -399,7 +399,7 @@ class App extends Component {
                 alignItems="center"
               >
                 <Grid item>
-                  <Typography variant="h4" component="h2" gutterBottom>BITN Staking Machine</Typography>
+                  <Typography variant="h4" component="h2" gutterBottom>POWER Staking Project</Typography>
                 </Grid>
                 <Grid item>
                   <Avatar alt="logo" src="https://www.bitcoincompany.it/wp-content/uploads/2018/07/Logo-finale-trasparente.png" style={{width: 200, height: 200}}/>
