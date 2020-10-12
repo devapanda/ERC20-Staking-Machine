@@ -6,10 +6,10 @@ i18n.use(LanguageDetector).init({
   resources: {
     en: {
       translations: {
-        Title: "BITN Staking Machine  ",
+        Title: "POWEER Staking Project  ",
         staking_form: {
           title: "Staking Form",
-          subtitle: "In this section you could stake your BITN token.",
+          subtitle: "In this section you could stake your POWER token.",
           referralCheckbox: "Have a referral?",
           textBoxHelper: "Amount to stake",
           helpButton: "Help needed?",
@@ -112,7 +112,7 @@ i18n.use(LanguageDetector).init({
     },
     it: {
         translations: {
-          Title: "BITN Macchina da Staking",
+          Title: "POWER Macchina da Staking",
           staking_form: {
             title: "Modulo Staking",
             subtitle: "In questa sezione potrai fare stake dei tuoi BITN token.",
